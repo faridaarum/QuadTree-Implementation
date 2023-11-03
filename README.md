@@ -1,1 +1,1 @@
-# QuadTree-Implementation
+# MapBox-QuadTree-Implementation
